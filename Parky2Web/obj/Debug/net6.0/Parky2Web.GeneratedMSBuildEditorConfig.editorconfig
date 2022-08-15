@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Parky2Web
+build_property.RootNamespace = Parky2Web
+build_property.ProjectDir = C:\MainNVQ_All\02_Tranning_Fsoft_3THANG\ASP NET CORE API\Parky2\Parky2Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\MainNVQ_All\02_Tranning_Fsoft_3THANG\ASP NET CORE API\Parky2\Parky2Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Home/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/NationalPark/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF0aW9uYWxQYXJrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/NationalPark/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF0aW9uYWxQYXJrXFVwc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Trail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Trail/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxcVXBzZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MainNVQ_All/02_Tranning_Fsoft_3THANG/ASP NET CORE API/Parky2/Parky2Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-15kmib4r4t

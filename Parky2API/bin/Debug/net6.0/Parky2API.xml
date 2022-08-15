@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Parky2API</name>
+    </assembly>
+    <members>
+        <member name="T:Parky2API.ConfigureSwaggerOptions">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Parky2API.Controllers.NationalParksController.GetNationalParks">
+            <summary>
+            get list of national park
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Parky2API.Controllers.NationalParksController.GetNationalPark(System.Int32)">
+            <summary>
+            get indivisual national park
+            </summary>
+            <param name="id">Id of the national park</param>
+            <returns></returns>
+        </member>
+        <member name="M:Parky2API.Controllers.NationalParksV2Controller.GetNationalParks">
+            <summary>
+            get list of national park
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Parky2API.Controllers.TrailController.GetTrails">
+            <summary>
+            get list of trail
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Parky2API.Controllers.TrailController.GetTrail(System.Int32)">
+            <summary>
+            get indivisual trail
+            </summary>
+            <param name="id">Id of the trail</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
